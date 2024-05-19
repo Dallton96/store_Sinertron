@@ -1,0 +1,11 @@
+const a = Number(prompt("Primer Número: "));
+const b = Number(prompt("Segundo Número: "));
+const suma = a + b;
+const mensaje = "El resultado es: " + suma + " Gaaaaaaaaaaaaaa";
+alert (mensaje);
+const promedio = suma / 2;
+alert (promedio);
+const triple = promedio * 3;
+alert (triple);
+const resulMenos10 = triple - 10;
+alert (resulMenos10);
