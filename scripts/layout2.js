@@ -173,7 +173,7 @@ function renderProductDetails(data_p) {
               <ul class="checkout-policy-list">
                 <li>
                   <span class="policy-icon"
-                    ><img src="../assets/truck.png" alt="Truck"
+                    ><img src="../store_Sinertron/assets/truck.png" alt="Truck"
                   /></span>
                   <span class="policy-desc">
                     Agrega el producto al carrito para conocer los costos de
@@ -182,7 +182,7 @@ function renderProductDetails(data_p) {
                 </li>
                 <li>
                   <span class="policy-icon"
-                    ><img src="../assets/plane.png" alt="Plane"
+                    ><img src="../store_Sinertron/assets/plane.png" alt="Plane"
                   /></span>
                   <span class="policy-desc">
                     Recibí aproximadamente entre 10 y 15 días hábiles,
