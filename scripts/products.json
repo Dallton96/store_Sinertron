@@ -38,7 +38,7 @@
       "title": "Mini Dril V1.0",
       "price": 450,
       "stock": 6,
-      "images": ["./Foto_07.jpg", "./Foto_05.jpg"],
+      "images": ["./Foto_07.JPG", "./Foto_05.JPG"],
       "onsale": "50% OFF",
       "supplier": "Sinertron",
       "colors": ["Yelow", "Green", "Gray"],
