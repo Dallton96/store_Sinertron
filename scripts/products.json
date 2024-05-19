@@ -49,7 +49,7 @@
       "title": "Box With Iris Mechanism",
       "price": 650,
       "stock": 8,
-      "images": ["./Foto_09.jpg", "./Foto_08.jpg"],
+      "images": ["./Foto_09.JPG", "./Foto_08.JPG"],
       "onsale": "20% OFF",
       "supplier": "Dallton",
       "colors": ["Wooden", "Gray", "White", "Black", "Silver"],
